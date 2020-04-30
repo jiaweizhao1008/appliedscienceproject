@@ -6,6 +6,8 @@ AppliedScienceProject - Hotel Review Analysis
 The dataset is download from Kaggle: https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe.
 This dataset contains 515,000 customer reviews and scoring of 1493 luxury hotels across Europe. Meanwhile, the geographical location of hotels are also provided for further analysis.
 
+The business goal is to analyze the hotels situation, and predict the sentiment based on reviewers' comment.  
+
 Data Content
 -------------
 The csv file contains 17 fields. The description of each field is as below:
@@ -57,10 +59,10 @@ Evaluate the model performance, the accuracy of logistic regression is good. The
 
 Project Organization
 ------------
-The code file is saved under the notebooks file, called HotelReviewAnalysis.ipynb. 
+The code file is saved under the notebooks file, called HotelReviewsAnalysis.ipynb. The html file is saved in reports/HotelReviewsAnalysis.html.
 
 The raw data could be download by this link: https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download.
-The data used to train model is saved in src/data/sentiment.csv.zip.
+The data used to train model is saved in src/data/sentiment.csv.zip. 
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
