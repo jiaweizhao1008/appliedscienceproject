@@ -60,7 +60,7 @@ Project Organization
 The code file is saved under the notebooks file, called HotelReviewAnalysis.ipynb. 
 
 The raw data could be download by this link: https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download.
-The data used to create model is saved in src/data/sentiment.csv.zip.
+The data used to train model is saved in src/data/sentiment.csv.zip.
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
