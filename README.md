@@ -34,7 +34,7 @@ Analyze the data features, we make the data visualiztion in these sides.
 * Hotel frequency: shows the top 20 hotel that be chosen in Europe.
 * Hotel location: shows the hotel distribution in different europen courtries, and show the detailed location of hotels in London.
 * Review date: review date is similar to checkout date, by comparing the checkout date in 2015, 2016 and 2017, we can know the rough day that traveler's stay in the hotel.
-* Reviewer's country: shows which country has the most people traveling in Europe? 
+* Reviewer's country: shows which country has the most people traveling in Europe.
 * Average rating of hotel: show the average rating of hotels.
 * Hotel levels: divide the hotel level based on the average rating of hotel.
 * Wordcloud: display the positive words and negative words.
@@ -57,6 +57,10 @@ Evaluate the model performance, the accuracy of logistic regression is good. The
 
 Project Organization
 ------------
+The code file is saved under the notebooks file, called HotelReviewAnalysis.ipynb. 
+
+The raw data could be download by this link: https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download.
+The data used to create model is saved in src/data/sentiment.csv.zip.
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
