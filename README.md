@@ -10,7 +10,8 @@ The main goal of this project is to analyze the hotels' situation and predict th
 
 The code file is saved under the notebooks file, called HotelReviewsAnalysis.ipynb:
 https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/notebooks/HotelReviewsAnalysis.ipynb
-(For unknown reason, the map image can not be shown in the github, so I uploaded two figures of hotel location separately. You can find them here: https://github.com/jiaweizhao1008/appliedscienceproject/tree/master/reports/figures.
+
+(For unknown reason, the map image can not be shown in the github, so I uploaded two figures of hotel location separately. You can find them here: https://github.com/jiaweizhao1008/appliedscienceproject/tree/master/reports/figures.)
 
 The raw data could be download by this link:                                             
 https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download
@@ -118,9 +119,4 @@ Project Organization
 
 --------
 
-"The work I submitted represents my work and my work alone.  I abode by the academic integrity policy and I am aware of the consequences associated with engaging in academic misconduct. "
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-# jiawei
-# jiawei
-# appliedscienceproject
+The work I submitted represents my work and my work alone.  I abode by the academic integrity policy and I am aware of the consequences associated with engaging in academic misconduct.
