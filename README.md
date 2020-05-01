@@ -10,9 +10,7 @@ The main goal of this project is to analyze the hotels' situation and predict th
 
 The code file is saved under the notebooks file, called HotelReviewsAnalysis.ipynb:
 https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/notebooks/HotelReviewsAnalysis.ipynb
-
-The html file is saved in reports/HotelReviewsAnalysis.html:
-https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/reports/HotelReviewsAnalysis.html
+(For unknown reason, the map image can not be shown in the github, so I uploaded two figures of hotel location separately. You can find them here: https://github.com/jiaweizhao1008/appliedscienceproject/tree/master/reports/figures.
 
 The raw data could be download by this link:                                             
 https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download
