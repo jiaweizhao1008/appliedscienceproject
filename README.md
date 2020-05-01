@@ -14,9 +14,8 @@ https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/notebooks/Ho
 The html file is saved in reports/HotelReviewsAnalysis.html:
 https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/reports/HotelReviewsAnalysis.html
 
-The raw data could be download by this link: 
-
-https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download.
+The raw data could be download by this link:                                             
+https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download
 
 The data used to train model is saved in src/data/sentiment.csv.zip:
 https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/src/data/sentiment.csv.zip
