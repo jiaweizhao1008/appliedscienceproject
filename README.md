@@ -11,7 +11,7 @@ The main goal of this project is to analyze the hotels' situation and predict th
 The code file is saved under the notebooks file, called HotelReviewsAnalysis.ipynb:
 https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/notebooks/HotelReviewsAnalysis.ipynb
 
-(For unknown reason, the map image can not be shown in the github, so I uploaded two figures of hotel location separately. You can find them here: https://github.com/jiaweizhao1008/appliedscienceproject/tree/master/reports/figures.)
+(For unknown reason, the map image can not be shown in the github, so I uploaded two figures of hotel location separately. You can find them here: https://github.com/jiaweizhao1008/appliedscienceproject/tree/master/reports/figures)
 
 The raw data could be download by this link:                                             
 https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download
@@ -58,7 +58,7 @@ Replace the 'no negative' and 'no positive' comments with null, merge the positi
 
 Clean the reveiwers' comment, tokeniz words, remove stopwords and pos tag all. 
 
-Use sentiment itensity analyzer to analyze the review sentiment, classify the sentiment to four types, neg, neu, pos and compound.
+Use sentiment itensity analyzer to analyze the review sentiment, classify the sentiment to four types, neg, neu, pos and compound. This method is referenced from https://www.kaggle.com/jonathanoheix/sentiment-analysis-with-hotel-reviews. :)
 
 Modelling
 ---------
