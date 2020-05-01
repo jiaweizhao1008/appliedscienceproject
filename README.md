@@ -8,10 +8,15 @@ This dataset contains 515,000 customer reviews and scoring of 1493 luxury hotels
 
 The main goal of this project is to analyze the hotels' situation and predict the sentiment based on reviewers' comments. To apply what I learned from this course, I used the data analysis, data visualization, data preprocessing, create the logistic regression model, and evaluate the model in this project. Based on the analysis, we can see hotels' situation more clearly, like the top 20 popular hotels, hotel location, hotel rating, and so on. I also used the word cloud to display text occurrence. Apply the bag of words and TFIDF model to process the text, and finally, use the logistic regression to predict the sentiment and evaluate the model performance.
 
-The code file is saved under the notebooks file, called HotelReviewsAnalysis.ipynb (https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/notebooks/HotelReviewsAnalysis.ipynb). The html file is saved in reports/HotelReviewsAnalysis.html (https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/reports/HotelReviewsAnalysis.html).
+The code file is saved under the notebooks file, called HotelReviewsAnalysis.ipynb :https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/notebooks/HotelReviewsAnalysis.ipynb
+
+The html file is saved in reports/HotelReviewsAnalysis.html:
+
+https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/reports/HotelReviewsAnalysis.html
 
 The raw data could be download by this link: https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/download.
-The data used to train model is saved in src/data/sentiment.csv.zip (https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/src/data/sentiment.csv.zip). 
+The data used to train model is saved in src/data/sentiment.csv.zip 
+:https://github.com/jiaweizhao1008/appliedscienceproject/blob/master/src/data/sentiment.csv.zip
 
 Data Content
 -------------
